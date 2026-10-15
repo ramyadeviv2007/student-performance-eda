@@ -1,0 +1,7 @@
+{
+  "test": "Kruskal-Wallis",
+  "purpose": "Check whether the G3 distributions differ across study-time groups.",
+  "statistic": 7.578856181381842,
+  "p_value": 0.055566544434365706,
+  "interpretation": "This test assesses an association between group distributions; it does not establish causality."
+}

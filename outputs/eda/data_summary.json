@@ -1,0 +1,9 @@
+{
+  "rows": 395,
+  "cols": 33,
+  "numeric_cols": 16,
+  "categorical_cols": 17,
+  "missing_total": 0,
+  "duplicates": 0,
+  "grades_out_of_range": 0
+}

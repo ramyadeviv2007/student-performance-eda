@@ -1,0 +1,32 @@
+{
+  "g3_histogram_kde.png": {
+    "what": "Distribution of final grades with a smoothed KDE curve.",
+    "why": "Shows the grade range, concentration, and shape before classification.",
+    "actual_result": "Mean G3 was 10.42; median G3 was 11.00.",
+    "limitation": "A univariate distribution does not explain why grades differ."
+  },
+  "g3_by_studytime_boxplot.png": {
+    "what": "Grade distributions, medians, and potential outliers across study-time categories.",
+    "why": "Compares the spread of grades among reported study-time groups.",
+    "actual_result": "Mean G3 by group was <2h: 10.05, 2-5h: 10.17, 5-10h: 11.40, >10h: 11.26.",
+    "limitation": "Study time is self-reported and group differences are observational."
+  },
+  "numeric_correlation_heatmap.png": {
+    "what": "Pairwise Pearson correlations among numeric variables.",
+    "why": "Highlights linear relationships that can guide further exploration.",
+    "actual_result": "The numeric feature with the largest absolute Pearson correlation with G3 was G2 (0.905).",
+    "limitation": "Correlation is not causation and Pearson correlation can miss nonlinear relationships."
+  },
+  "absences_vs_g3.png": {
+    "what": "Student absences plotted against final grade with a fitted linear trend line.",
+    "why": "Explores a possible linear association between absence counts and final grade.",
+    "actual_result": "Pearson correlation between absences and G3 was 0.034.",
+    "limitation": "The trend line is descriptive; confounders and overlapping observations are not controlled."
+  },
+  "mean_g3_by_studytime.png": {
+    "what": "Mean final grade in each of the four study-time categories.",
+    "why": "Provides a compact comparison of group averages.",
+    "actual_result": "Highest group mean was 5-10h (11.40); lowest was <2h (10.05).",
+    "limitation": "Means hide within-group variation and do not imply that study time caused the differences."
+  }
+}

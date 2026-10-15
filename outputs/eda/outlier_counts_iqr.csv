@@ -1,0 +1,17 @@
+column,iqr_outliers
+age,1
+Medu,0
+Fedu,2
+traveltime,8
+studytime,27
+failures,83
+famrel,26
+freetime,19
+goout,0
+Dalc,18
+Walc,0
+health,0
+absences,15
+G1,0
+G2,13
+G3,0

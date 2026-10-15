@@ -1,0 +1,2 @@
+shape_rows,shape_columns,duplicate_count,invalid_G3_count,numeric_columns,categorical_columns
+395,33,0,0,"age, Medu, Fedu, traveltime, studytime, failures, famrel, freetime, goout, Dalc, Walc, health, absences, G1, G2, G3","school, sex, address, famsize, Pstatus, Mjob, Fjob, reason, guardian, schoolsup, famsup, paid, activities, nursery, higher, internet, romantic"

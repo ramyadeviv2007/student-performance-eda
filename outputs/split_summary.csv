@@ -1,0 +1,4 @@
+split,rows,pass_count,fail_count
+train,276,185,91
+validation,59,40,19
+test,60,40,20
